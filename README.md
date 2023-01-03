@@ -31,7 +31,7 @@ module.exports = {
 
 Locally you can also run `npx hardhat node`
 
-To deploy a contract firstable you need to compile solidity code with:
+To deploy a contract you need to compile solidity code with:
 
 ```
 npx hardhat compile
